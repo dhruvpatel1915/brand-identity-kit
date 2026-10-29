@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220"><rect width="860" height="220" fill="#3B2A20"/><g transform="translate(30 20) scale(0.9)">
+    <circle cx="100" cy="100" r="96" fill="#C8643C"/>
+    <path d="M55 95 h80 v25 a40 40 0 0 1 -40 40 a40 40 0 0 1 -40 -40 z" fill="#F6EFE6"/>
+    <path d="M135 104 h7 a14 14 0 0 1 0 28 h-12" fill="none" stroke="#F6EFE6" stroke-width="7" stroke-linecap="round"/>
+    <rect x="58" y="164" width="84" height="7" rx="3.5" fill="#F6EFE6"/>
+    <path d="M100 86 C80 70 82 45 100 28 C118 45 120 70 100 86 Z" fill="#8FA58B"/>
+    <path d="M100 82 L100 44" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+  </g><text x="230" y="112" font-family="'Playfair Display', Georgia, 'DejaVu Serif', serif" font-size="64" font-weight="700" fill="#F6EFE6">Brew &amp; Bloom</text>
+  <text x="233" y="144" font-family="'Poppins', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif" font-size="14.08" letter-spacing="4.48" fill="#D9A441">CAFE  ·  BAKERY</text></svg>
